@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Create React App + Go API</h1>
+      <h1>侧耳倾听的世界</h1>
       <h2>Deployed with 4everland!</h2>
       <p>
         This project was bootstrapped with{" "}
